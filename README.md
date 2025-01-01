@@ -1,4 +1,4 @@
-# Will add something to this later
+# Student and aspiring SWE aka. the cyber janitor
 
 ## goals for '25
 - learn golang and ocaml to intermediate level
